@@ -1,0 +1,45 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_5CFF4819_4803_C975_41CF_60C06FED896B.source = https://api.whatsapp.com/send?phone=5583998102177&fbclid=PAZXh0bgNhZW0CMTEAAafl4JUKm8NsI-veU2JzBtGqqIqbdDYGZc6dVH-de9PlxKiTwIqQGsqxsdwP6Q_aem_WpHD0uhtv5Lf5yX-RCRf3g
+LinkBehaviour_5CBC869E_4804_796E_41D1_59C1A3F81E67.source = https://www.google.com/maps/place/Pousada+S%25C3%25ADtio+Casa+de+V%25C3%25B3/@-6.9650057,-35.7629854,17z/data=!3m1!4b1!4m9!3m8!1s0x7ac2def63df86eb:0xf4d58f06d4656e05!5m2!4m1!1i2!8m2!3d-6.9650057!4d-35.7629854!16s%252Fg%252F11kj8wxlvx?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%253D%253D
+LinkBehaviour_5C494547_4804_5BDE_41CC_359A8717E625.source = https://www.instagram.com/sitioocasadevo/
+
+## Media
+
+### Audio
+audiores_5F9555AE_4804_DAAE_41A2_FE5AEFDFD58D.mp3Url = media/audio_504B5029_483C_5952_41C7_AEC32BE987C0_pt.mp3
+audiores_524B5080_4804_7953_41D1_55E094FCEDE0.mp3Url = media/audio_51E75261_4804_D9D2_41D0_E67FD24DA30D_pt.mp3
+audiores_518D99CF_480C_4AEE_41D1_5C9CFDECB159.mp3Url = media/audio_52AB7E4C_480C_49D2_41CD_B3770EBC1878_pt.mp3
+
+### Audio Subtitles
+
+### Title
+panorama_4316A9A1_4804_4B52_4173_CDBF2B02BF02.label = chegada
+panorama_42FF6A5A_4804_49F6_41D1_982CB6AA9CDB.label = fogueira
+panorama_42F8F8AC_4804_4952_41C3_E7E2EEEBD257.label = letreiro
+panorama_42F8571F_4804_C76E_41D0_B244B5BCD000.label = meio
+panorama_42F805A4_4804_DB52_41C0_0D68805A1631.label = meio2
+panorama_42F844BE_4804_FAAE_41C6_7E3272AAB030.label = quarto
+panorama_42F872DF_4804_DEEE_41C4_CF1398C794D1.label = redário
+
+## Skin
+
+### Image
+Image_4379EE0C_5138_7A46_41C2_861DC09B03D6.url = skin/Image_4379EE0C_5138_7A46_41C2_861DC09B03D6_pt.jpg
+Image_45DB5AD4_4803_CEF2_4192_6006E68C283B.url = skin/Image_45DB5AD4_4803_CEF2_4192_6006E68C283B_pt.png
+Image_47315EFE_483C_46AE_41BA_050E2A68F528.url = skin/Image_47315EFE_483C_46AE_41BA_050E2A68F528_pt.png
+
+### Label
+Label_47ECB9C3_4803_CAD5_41B2_9F611EE0ADC7.text = Contato
+Label_58F1E5D1_480D_DAF2_41A6_25204C4699C1.text = Instagram
+Label_585B2930_480C_4BB2_41B8_6641ADD5C4F7.text = Localizaçao
+
+## Tour
+
+### Description
+
+### Title
+tour.name = St Casa de Vó
