@@ -4,7 +4,10 @@
 
 ### URL
 LinkBehaviour_5CFF4819_4803_C975_41CF_60C06FED896B.source = https://api.whatsapp.com/send?phone=5583998102177&fbclid=PAZXh0bgNhZW0CMTEAAafl4JUKm8NsI-veU2JzBtGqqIqbdDYGZc6dVH-de9PlxKiTwIqQGsqxsdwP6Q_aem_WpHD0uhtv5Lf5yX-RCRf3g
+LinkBehaviour_42C54E38_52C6_EF34_41B7_3A1F25D22256.source = https://api.whatsapp.com/send?phone=5583998102177&fbclid=PAZXh0bgNhZW0CMTEAAafl4JUKm8NsI-veU2JzBtGqqIqbdDYGZc6dVH-de9PlxKiTwIqQGsqxsdwP6Q_aem_WpHD0uhtv5Lf5yX-RCRf3g
 LinkBehaviour_5CBC869E_4804_796E_41D1_59C1A3F81E67.source = https://www.google.com/maps/place/Pousada+S%25C3%25ADtio+Casa+de+V%25C3%25B3/@-6.9650057,-35.7629854,17z/data=!3m1!4b1!4m9!3m8!1s0x7ac2def63df86eb:0xf4d58f06d4656e05!5m2!4m1!1i2!8m2!3d-6.9650057!4d-35.7629854!16s%252Fg%252F11kj8wxlvx?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%253D%253D
+LinkBehaviour_42C50E39_52C6_EF34_41B5_C644FDB8FBAD.source = https://www.google.com/maps/place/Pousada+S%25C3%25ADtio+Casa+de+V%25C3%25B3/@-6.9650057,-35.7629854,17z/data=!3m1!4b1!4m9!3m8!1s0x7ac2def63df86eb:0xf4d58f06d4656e05!5m2!4m1!1i2!8m2!3d-6.9650057!4d-35.7629854!16s%252Fg%252F11kj8wxlvx?entry=ttu&g_ep=EgoyMDI1MDcyMy4wIKXMDSoASAFQAw%253D%253D
+LinkBehaviour_42C53E3A_52C6_EF34_41C4_606B4DCE7D79.source = https://www.instagram.com/sitioocasadevo/
 LinkBehaviour_5C494547_4804_5BDE_41CC_359A8717E625.source = https://www.instagram.com/sitioocasadevo/
 
 ## Media
@@ -28,14 +31,20 @@ panorama_42F872DF_4804_DEEE_41C4_CF1398C794D1.label = redário
 ## Skin
 
 ### Image
-Image_4379EE0C_5138_7A46_41C2_861DC09B03D6.url = skin/Image_4379EE0C_5138_7A46_41C2_861DC09B03D6_pt.jpg
+Image_45DB5AD4_4803_CEF2_4192_6006E68C283B_mobile.url = skin/Image_45DB5AD4_4803_CEF2_4192_6006E68C283B_mobile_pt.png
 Image_45DB5AD4_4803_CEF2_4192_6006E68C283B.url = skin/Image_45DB5AD4_4803_CEF2_4192_6006E68C283B_pt.png
+Image_47315EFE_483C_46AE_41BA_050E2A68F528_mobile.url = skin/Image_47315EFE_483C_46AE_41BA_050E2A68F528_mobile_pt.png
 Image_47315EFE_483C_46AE_41BA_050E2A68F528.url = skin/Image_47315EFE_483C_46AE_41BA_050E2A68F528_pt.png
+Image_5F7286CF_528F_BD83_41C9_B8869BD870A4_mobile.url = skin/Image_5F7286CF_528F_BD83_41C9_B8869BD870A4_mobile_pt.jpg
+Image_5F7286CF_528F_BD83_41C9_B8869BD870A4.url = skin/Image_5F7286CF_528F_BD83_41C9_B8869BD870A4_pt.jpg
 
 ### Label
+Label_47ECB9C3_4803_CAD5_41B2_9F611EE0ADC7_mobile.text = Contato
 Label_47ECB9C3_4803_CAD5_41B2_9F611EE0ADC7.text = Contato
+Label_58F1E5D1_480D_DAF2_41A6_25204C4699C1_mobile.text = Instagram
 Label_58F1E5D1_480D_DAF2_41A6_25204C4699C1.text = Instagram
 Label_585B2930_480C_4BB2_41B8_6641ADD5C4F7.text = Localizaçao
+Label_585B2930_480C_4BB2_41B8_6641ADD5C4F7_mobile.text = Mapa
 
 ## Tour
 
